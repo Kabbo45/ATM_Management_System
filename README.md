@@ -1,1 +1,15 @@
-# ATM_Management_System
+# ATM_Management_System SS
+
+![Splash_Screen](https://user-images.githubusercontent.com/74914169/157952858-94dc10d1-1d0e-4d61-991c-5d5d0b7daf20.PNG)
+![Main Menu](https://user-images.githubusercontent.com/74914169/157952895-fce4f74a-32a9-45f3-9ff5-2bf9274ad4a5.PNG)
+![Registration](https://user-images.githubusercontent.com/74914169/157952969-177e7a13-8eec-43a5-adcb-713805284fa9.PNG)
+![Registration_bank](https://user-images.githubusercontent.com/74914169/157953005-ec360792-8c01-4a8d-88bc-60414948f0df.PNG)
+![Login](https://user-images.githubusercontent.com/74914169/157953061-f8b16322-de4f-4939-8511-79145497b68f.PNG)
+![User_dashboard](https://user-images.githubusercontent.com/74914169/157953179-e4e5f396-99bc-449e-bbf1-c3161d867da7.PNG)
+![change-pin](https://user-images.githubusercontent.com/74914169/157953228-a0726585-3fa7-43d3-9cbc-d1d7fdc4c159.PNG)
+![Admin_authoraization](https://user-images.githubusercontent.com/74914169/157953620-07c8b457-f03f-4131-a638-c816a1558446.PNG)
+![Admin_Login](https://user-images.githubusercontent.com/74914169/157953626-6a33062e-c943-4746-8d44-2775641a3715.PNG)
+![Admin_Unlocking](https://user-images.githubusercontent.com/74914169/157953649-b99bd147-a4fb-41a7-a433-b108ffb06ee7.PNG)
+![Admin_Pannel](https://user-images.githubusercontent.com/74914169/157953734-bfd07ea5-f7ed-4051-87cd-b98aad8b7ac4.PNG)
+![Bank_lock_unlocking_system](https://user-images.githubusercontent.com/74914169/157953984-42598588-04d3-4767-9bb2-966569a9cae4.png)
+![block_bank_card](https://user-images.githubusercontent.com/74914169/157953990-eb8b7df6-9541-4f4d-8172-38dda2c89233.png)
