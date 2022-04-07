@@ -1,4 +1,5 @@
-# ATM_Management_System SS
+# ATM Management System Software
+- This project create C# programming Language and also using MySql Database. 
 - It's my 6th Semester project. If you want to create this project download this project now.
 - 📫 If you feel any problem contact with me: zobayer.dev@gmail.com
 - Project creator
